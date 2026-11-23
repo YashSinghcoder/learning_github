@@ -1,0 +1,5 @@
+College Connect - Questions Feature
+
+1. Students can ask questions.
+2. Seniors can answer questions.
+3. Students can discuss placements.
